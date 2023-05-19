@@ -1,9 +1,9 @@
 <?c_link.config version="1.0"?>
 <config>
   <mysql>
-    <host>10.21.19.17</host>
+    <host></host>
     <username>root</username>
-    <password>root6316</password>
+    <password></password>
     <database>freeswitch</database>
   </mysql>
   <tts_type>0</tts_type>
