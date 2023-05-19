@@ -1,0 +1,16 @@
+<?c_link.config version="1.0"?>
+<config>
+  <mysql>
+    <host>10.21.19.17</host>
+    <username>root</username>
+    <password>root6316</password>
+    <database>freeswitch</database>
+  </mysql>
+  <tts_type>0</tts_type>
+  <org_img_path>/usr/local/lbc/vedio_combine/org_image_resources/</org_img_path>
+  <org_aud_path>/usr/local/lbc/vedio_combine/org_audio_resources/</org_aud_path>
+  <org_ved_path>/usr/local/lbc/vedio_combine/org_video_resources/</org_ved_path>
+  <video_path>/usr/local/lbc/vedio_combine/video_resources/</video_path>
+  <isCommandline>true</isCommandline>
+
+</config>
